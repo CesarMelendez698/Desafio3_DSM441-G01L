@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand / Primary Gradient -->
+    <color name="primary">#1E293B</color>
+    <color name="primary_dark">#0F172A</color>
+    <color name="primary_light">#334155</color>
+    <color name="primary_accent">#4F46E5</color>
+    <color name="primary_accent_light">#EEF2FF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#E0E7FF</color>
+    <color name="on_primary_container">#3730A3</color>
+
+    <!-- Vibrant Gradient Anchors -->
+    <color name="grad_hero_start">#1E1B4B</color>
+    <color name="grad_hero_end">#4338CA</color>
+    <color name="grad_goal_start">#0F766E</color>
+    <color name="grad_goal_end">#0D9488</color>
+    <color name="grad_trophy_start">#B45309</color>
+    <color name="grad_trophy_end">#F59E0B</color>
+
+    <!-- Genre Specific Colors -->
+    <!-- Novela (Púrpura / Violeta) -->
+    <color name="genre_novel">#7C3AED</color>
+    <color name="genre_novel_bg">#F5F3FF</color>
+    <color name="genre_novel_border">#DDD6FE</color>
+
+    <!-- Ciencia ficción (Azul Cósmico / Cyan) -->
+    <color name="genre_scifi">#0284C7</color>
+    <color name="genre_scifi_bg">#F0F9FF</color>
+    <color name="genre_scifi_border">#BAE6FD</color>
+
+    <!-- Historia (Ámbar / Terracota) -->
+    <color name="genre_history">#D97706</color>
+    <color name="genre_history_bg">#FFFBEB</color>
+    <color name="genre_history_border">#FDE68A</color>
+
+    <!-- Desarrollo personal (Esmeralda / Menta) -->
+    <color name="genre_selfhelp">#059669</color>
+    <color name="genre_selfhelp_bg">#ECFDF5</color>
+    <color name="genre_selfhelp_border">#A7F3D0</color>
+
+    <!-- Status Colors -->
+    <color name="status_reading">#EA580C</color>
+    <color name="status_reading_bg">#FFEDD5</color>
+    <color name="status_finished">#10B981</color>
+    <color name="status_finished_bg">#D1FAE5</color>
+    <color name="status_to_read">#64748B</color>
+    <color name="status_to_read_bg">#F1F5F9</color>
+
+    <!-- Rating / Star -->
+    <color name="star_gold">#F59E0B</color>
+    <color name="star_bg">#FFFBEB</color>
+
+    <!-- Backgrounds & Surfaces -->
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+    <color name="surface_highlight">#FAFAFA</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="divider_subtle">#F1F5F9</color>
+
+    <!-- Text & Input Colors (Ultra high contrast) -->
+    <color name="input_text_dark">#0F172A</color>
+    <color name="input_hint_color">#64748B</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_hint">#94A3B8</color>
+
+    <!-- Secondary -->
+    <color name="secondary">#0D9488</color>
+    <color name="secondary_container">#CCFBF1</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <!-- Feedback -->
+    <color name="error">#EF4444</color>
+    <color name="error_bg">#FEE2E2</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

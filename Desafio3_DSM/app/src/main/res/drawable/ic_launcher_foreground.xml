@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Soft Drop Shadow under the book base -->
+    <path
+        android:fillColor="#35000000"
+        android:pathData="M30,75 C40,78.5 68,78.5 78,75 C72,79.5 36,79.5 30,75 Z" />
+
+    <!-- Book Bottom Cover (Gold Accent) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M24,71 C34,67 44,67 54,70 C64,67 74,67 84,71 L84,74 C74,70 64,70 54,73 C44,70 34,70 24,74 Z" />
+
+    <!-- Left Book Page (Base Layer with subtle shadow) -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M54,69.5 C44,66.5 34,66.5 25,69.5 L25,43.5 C34,40.5 44,40.5 54,43.5 Z" />
+
+    <!-- Left Book Page Surface (Light off-white) -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M54,68.5 C44,65.8 34,65.8 26,68.5 L26,44 C34,41.3 44,41.3 54,44 Z" />
+
+    <!-- Right Book Page (Pure White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,69.5 C64,66.5 74,66.5 83,69.5 L83,43.5 C74,40.5 64,40.5 54,43.5 Z" />
+
+    <!-- Spine Center Shadow Crease -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M53.2,43.5 L54.8,43.5 L54.8,69.8 L53.2,69.8 Z" />
+
+    <!-- Left Page Text Simulation Lines -->
+    <path
+        android:pathData="M31,49 C36,47.8 42,47.8 48,49.2"
+        android:strokeWidth="1.6"
+        android:strokeColor="#94A3B8"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M31,54.5 C36,53.3 42,53.3 48,54.7"
+        android:strokeWidth="1.6"
+        android:strokeColor="#94A3B8"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M31,60 C36,58.8 42,58.8 48,60.2"
+        android:strokeWidth="1.6"
+        android:strokeColor="#94A3B8"
+        android:strokeLineCap="round" />
+
+    <!-- Right Page Text Simulation Lines -->
+    <path
+        android:pathData="M60,49.2 C66,47.8 72,47.8 77,49"
+        android:strokeWidth="1.6"
+        android:strokeColor="#94A3B8"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M60,54.7 C66,53.3 72,53.3 77,54.5"
+        android:strokeWidth="1.6"
+        android:strokeColor="#94A3B8"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M60,60.2 C66,58.8 72,58.8 77,60"
+        android:strokeWidth="1.6"
+        android:strokeColor="#94A3B8"
+        android:strokeLineCap="round" />
+
+    <!-- Bookmark Ribbon (Vibrant Red with notched tail) -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M51.5,41.5 L56.5,41.5 L56.5,63 L54,60.5 L51.5,63 Z" />
+
+    <!-- Sparkling Knowledge Star (Top Right) -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M74,27 C74,31 77,34 81,34 C77,34 74,37 74,41 C74,37 71,34 67,34 C71,34 74,31 74,27 Z" />
+
+    <path
+        android:fillColor="#FEF08A"
+        android:pathData="M74,31 C74,33 75.5,34 77.5,34 C75.5,34 74,35 74,37 C74,35 72.5,34 70.5,34 C72.5,34 74,33 74,31 Z" />
+
+    <!-- Small Sparkle Accent (Top Left) -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M33,31 C33,33.5 35,35 37,35 C35,35 33,36.5 33,39 C33,36.5 31,35 29,35 C31,35 33,33.5 33,31 Z" />
+
+</vector>

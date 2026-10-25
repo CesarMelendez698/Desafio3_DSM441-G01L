@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme: forzado a Tema Claro -->
+    <style name="Base.Theme.Desafio3_DSM" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="editTextColor">@color/input_text_dark</item>
+        <item name="android:editTextColor">@color/input_text_dark</item>
+        <item name="android:textColor">@color/input_text_dark</item>
+        <item name="android:textColorPrimary">@color/input_text_dark</item>
+        <item name="colorOnSurface">@color/input_text_dark</item>
+    </style>
+
+    <style name="Theme.Desafio3_DSM" parent="Base.Theme.Desafio3_DSM" />
+</resources>

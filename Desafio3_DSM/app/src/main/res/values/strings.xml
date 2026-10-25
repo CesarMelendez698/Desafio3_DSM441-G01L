@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Control de Lectura</string>
+
+    <!-- Géneros obligatorios según documento -->
+    <string-array name="book_genres">
+        <item>Novela</item>
+        <item>Ciencia ficción</item>
+        <item>Historia</item>
+        <item>Desarrollo personal</item>
+    </string-array>
+
+    <!-- Estados sugeridos según documento -->
+    <string-array name="book_statuses">
+        <item>Por leer</item>
+        <item>Leyendo</item>
+        <item>Terminado</item>
+    </string-array>
+</resources>
